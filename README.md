@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **DSA, Competitive Programming, Web Dev and Technological Trends**
 
-- 📫 You can reach me at **aradhya.mishra1012@gmail.com**
+- 📫 You can reach me at **202051034@iiitvadodara.ac.in**
   
 <br>
 <h3 align="left">Connect with me:</h3>
