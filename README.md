@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **DSA, Competitive Programming, Web Dev and Technological Trends**
+- 💬 Ask me about **Competitive Programming, Web Dev and Technological Trends**
 
 - 📫 You can reach me at **202051034@iiitvadodara.ac.in**
   
