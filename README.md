@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently working on **MERN** related projects
 
 - 💬 Ask me about **Competitive Programming, Web Dev and Technological Trends**
 
