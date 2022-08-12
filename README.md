@@ -6,7 +6,6 @@
 
 
 
-
 - 🌱 I’m currently working on **MERN** related projects
 
 - 💬 Ask me about **Competitive Programming, Web Dev and Technological Trends**
@@ -14,7 +13,7 @@
 - 📫 You can reach me at **202051034@iiitvadodara.ac.in**
   
 <br>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect:</h3>
 <p align="left">
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/aradhya_1012" target="blank"><img align="center" src="https://img.icons8.com/color/452/codechef.png" alt="https://www.codechef.com/users/aradhya_1012" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/aradhya-mishra-6354761b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aradhya-mishra-6354761b8/" height="30" width="40" /></a>
