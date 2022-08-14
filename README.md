@@ -3,10 +3,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aradhya-10&label=Profile%20views&color=0e75b6&style=flat" alt=”aradhya-10" /> 
 </p>
 <img align="right" alt="Coding" width="400" src="https://images.unsplash.com/photo-1531297484001-80022131f5a1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=820&q=80">
+  
+ 
 
-
-
-- 🌱 I’m currently working on **MERN** related projects
+- 🌱 I’m currently working on **MERN** related projects. (CodeBush is a go!)
 
 - 💬 Ask me about **Competitive Programming, Web Dev and Technological Trends**
 
