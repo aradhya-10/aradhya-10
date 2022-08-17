@@ -6,9 +6,9 @@
   
  
 
-- 🌱 I’m currently working on **MERN** related projects. (CodeBush is a go!)
+- 🌱 I’m currently working on **MERN** related projects. (CodeBush is a go! )
 
-- 💬 Ask me about **Competitive Programming, Web Dev and Technological Trends**
+- 💬 Ask me about **Competitive Programming, Web Development and Technological Trends**
 
 - 📫 You can reach me at **202051034@iiitvadodara.ac.in**
   
