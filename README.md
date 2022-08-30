@@ -25,9 +25,9 @@
 <br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/aradhya-10/aradhya-10/main/icons/html.png" alt="matlab" width="40" height="40"/> </a> 
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/aradhya-10/aradhya-10/main/icons/css-3.png" alt="matlab" width="40" height="40"/> </a> 
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/aradhya-10/aradhya-10/main/icons/java-script.png" alt="matlab" width="40" height="40"/> </a> 
+<a href="https://www.html.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/aradhya-10/aradhya-10/main/icons/html.png" alt="matlab" width="40" height="40"/> </a> 
+<a href="https://www.html.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/aradhya-10/aradhya-10/main/icons/css-3.png" alt="matlab" width="40" height="40"/> </a> 
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/aradhya-10/aradhya-10/main/icons/java-script.png" alt="matlab" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
