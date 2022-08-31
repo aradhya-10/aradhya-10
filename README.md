@@ -10,6 +10,8 @@
 
 - 💬 Ask me about **Competitive Programming, Web Development and Technological Trends**
 
+- 💬 **Let's Learn**
+
 - 📫 You can reach me at **202051034@iiitvadodara.ac.in**
   
 <br>
