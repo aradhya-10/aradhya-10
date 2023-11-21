@@ -6,7 +6,7 @@
   
  
 
-- 🌱 I’m currently working on **MERN** related projects. (CodeBush is a go! )
+- 🌱 I’m currently working on **MERN** projects.
 
 - 💬 Ask me about **Competitive Programming, Web Development and Technological Trends**
 
@@ -37,6 +37,5 @@
 </p>
 <p><!img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aradhya-10&show_icons=true&locale=en&layout=compact" alt="aradhya-10" /></p>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aradhya-10&" alt="aradhya-10" /></p>
 
 
